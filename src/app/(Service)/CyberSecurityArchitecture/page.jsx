@@ -58,7 +58,7 @@ const Page = () => {
 for vehicle architectures, systems
 and components</h4>
                   <p className='p'>
-                  PlaxidityX helps you ensure secure-by-design vehicle architectures by embedding robust cyber security from the early development stages. Using a holistic methodology compliant with ISO 21434 and ASPICE, our services cover TARA (Threat analysis & risk assessment), cyber security concept, security requirements specification and architecture review.
+                  BrownEdgeTechnology helps you ensure secure-by-design vehicle architectures by embedding robust cyber security from the early development stages. Using a holistic methodology compliant with ISO 21434 and ASPICE, our services cover TARA (Threat analysis & risk assessment), cyber security concept, security requirements specification and architecture review.
                   </p>
                 </div>
                 <div className="col-md-6">
